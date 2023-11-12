@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProductListMed/static/css/main.241951ba.css",
+    "main.js": "/ProductListMed/static/js/main.47113738.js",
+    "static/js/787.47b6c574.chunk.js": "/ProductListMed/static/js/787.47b6c574.chunk.js",
+    "index.html": "/ProductListMed/index.html",
+    "main.241951ba.css.map": "/ProductListMed/static/css/main.241951ba.css.map",
+    "main.47113738.js.map": "/ProductListMed/static/js/main.47113738.js.map",
+    "787.47b6c574.chunk.js.map": "/ProductListMed/static/js/787.47b6c574.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.47113738.js"
+  ]
+}
